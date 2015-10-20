@@ -6,8 +6,8 @@ Motion with RTSP support
 2. Download the Dockerfile and build image.
 
 ```sh
-$ git clone git@github.com:MatthiasGa/Motion-RTSP-Dockerfile.git
-$ cd Motion-RTSP-Dockerfile
+$ git clone git@github.com:MatthiasGa/Motion-RTSP-RPi-Dockerfile.git
+$ cd Motion-RTSP-RPi-Dockerfile
 $ ./build-docker
 ```
 
